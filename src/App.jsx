@@ -1,6 +1,7 @@
 import React from "react";
 import Navbar from "./components/Navbar";
 import MovieList from "./components/MovieList";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
         <h2>📅 Upcoming Movies</h2>
         <MovieList category="upcoming" />
       </section>
+      <Footer />
     </div>
   );
 }

@@ -10,7 +10,10 @@
   flex: 0 0 auto;
   scroll-snap-align: start;
 }
-
+.movie-card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+}
 .movie-card img {
   width: 100%;
   height: auto;
@@ -21,8 +24,8 @@
 /* Rating badge styling */
 .rating-badge {
   position: absolute;
-  top: 8px;
-  left: 8px;
+  /* top: 8px;
+  left: 8px; */
   width: 36px;
   height: 36px;
   background-color: #0d9488; /* teal color */
@@ -53,4 +56,11 @@
   color: white;
   padding: 8px;
   box-sizing: border-box;
+}
+
+#top_rated{
+margin-top:2rem;
+}
+#upcoming{
+margin-top: 2rem;
 }

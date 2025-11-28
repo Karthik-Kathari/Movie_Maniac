@@ -20,7 +20,13 @@ const Navbar = () => {
 
   return (
     <nav className="navbar">
-      <div className="logo">🎥 Movie Maniac</div>
+      <div className="logo-container">
+        <img
+          className="mainlogo"
+          src="/src/assets/img/MovieManiac.png"
+          alt=""
+        />
+      </div>
       <ul className="nav-links">
         <li>
           <a href="#popular">Popular</a>
