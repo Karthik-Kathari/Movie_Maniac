@@ -23,8 +23,8 @@ const Navbar = () => {
       <div className="logo-container">
         <img
           className="mainlogo"
-          src="/src/assets/img/MovieManiac.png"
-          alt=""
+          src="/public/MovieManiac.png"
+          alt="Movie Maniac logo"
         />
       </div>
       <ul className="nav-links">
