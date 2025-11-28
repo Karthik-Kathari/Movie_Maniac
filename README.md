@@ -9,6 +9,10 @@ Live Site:
 ---
 
 ## 🖼 **Website Preview / Screenshots**
+![Homepage 1](public/MoiveFly.png)
+![Homepage 2](public/MoiveFly2.png)
+![Homepage 3](public/MoiveFly3.png)
+![Logo](public/MovieManiac.png)
 
 ---
 
