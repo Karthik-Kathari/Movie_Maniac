@@ -14,7 +14,7 @@ const Footer = () => {
       </div>
       <div className="footer-icons">
         <a
-          href="https://github.com/Karthik-Kathari"
+          href="https://github.com/Karthik-Kathari/Movie_Maniac"
           target="_blank"
           rel="noopener noreferrer"
           title="GitHub"
