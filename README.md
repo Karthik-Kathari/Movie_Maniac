@@ -1,6 +1,6 @@
-✨ **Movie Maniac — Movie Explorer Web App**
+## ✨ **Movie Maniac — Movie Explorer Web App**
 
-Movie Maniac is a modern movie discovery web application built with  **React + Vite** , featuring **TMDB API integration** to fetch real-time movie data. Users can explore popular, top-rated, and upcoming movies, apply filters, sort results, and experience a smooth horizontal card slider UI with interactive navigation dots.
+Movie Maniac is a modern movie discovery web application built with **React + Vite** , featuring **TMDB API integration** to fetch real-time movie data. Users can explore popular, top-rated, and upcoming movies, apply filters, sort results, and experience a smooth horizontal card slider UI with interactive navigation dots.
 
 Live Site:
 
@@ -10,18 +10,17 @@ Live Site:
 
 ## 🖼 **Website Preview / Screenshots**
 
-
 ---
 
 ## 🔥 **Key Features**
 
-* Real-time movie data from **TMDB API**
-* **Filter Options**
-* **Sort movies** by Release Date or Rating (Ascending / Descending)
-* **Smooth horizontal scroll** with clickable navigation dots
-* **Light & Dark mode toggle**
-* Fully responsive UI
-* Clean & modern card UI with hover animations
+- Real-time movie data from **TMDB API**
+- **Filter Options**
+- **Sort movies** by Release Date or Rating (Ascending / Descending)
+- **Smooth horizontal scroll** with clickable navigation dots
+- **Light & Dark mode toggle**
+- Fully responsive UI
+- Clean & modern card UI with hover animations
 
 ---
 
@@ -73,8 +72,8 @@ Install dependencies:
 
 ## 🌍 **Environment Variables**
 
-| Key                   | Description       |
-| --------------------- | ----------------- |
+| Key                 | Description       |
+| ------------------- | ----------------- |
 | `VITE_TMDB_API_KEY` | Your TMDB API key |
 
 You can generate it from:
@@ -85,7 +84,7 @@ You can generate it from:
 
 ## 🚀 **Deployment**
 
-The project is deployed on  **Netlify** , using:
+The project is deployed on **Netlify** , using:
 
 <pre class="overflow-visible!" data-start="1887" data-end="1912"><div class="contain-inline-size rounded-2xl relative bg-token-sidebar-surface-primary"><div class="sticky top-9"><div class="absolute end-0 bottom-0 flex h-9 items-center pe-2"><div class="bg-token-bg-elevated-secondary text-token-text-secondary flex items-center gap-4 rounded-sm px-2 font-sans text-xs"></div></div></div><div class="overflow-y-auto p-4" dir="ltr"><code class="whitespace-pre! language-bash"><span><span>npm run build
 </span></span></code></div></div></pre>
@@ -135,8 +134,8 @@ This project is licensed under the MIT License.
 
 Web Development Enthusiast
 
-* GitHub: **[https://github.com/Karthik-Kathari](https://github.com/Karthik-Kathari)**
-* LinkedIn: **[https://www.linkedin.com/in/karthik-kathari]()**
+- GitHub: **[https://github.com/Karthik-Kathari](https://github.com/Karthik-Kathari)**
+- LinkedIn: **[https://www.linkedin.com/in/karthik-kathari]()**
 
 ---
 
