@@ -1,3 +1,4 @@
+import logo from "../assets/img/MovieManiac.png";
 import React, { useEffect, useState } from "react";
 import "../styles/Navbar.css";
 
@@ -21,11 +22,7 @@ const Navbar = () => {
   return (
     <nav className="navbar">
       <div className="logo-container">
-        <img
-          className="mainlogo"
-          src="/public/MovieManiac.png"
-          alt="Movie Maniac logo"
-        />
+        <img className="mainlogo" src={logo} alt="Movie Maniac logo" />
       </div>
       <ul className="nav-links">
         <li>
